@@ -30,7 +30,7 @@ To view or run the Blog Website locally, follow these steps:
 
 1. **Clone the repository** to your local machine:
     ```bash
-    git clone https://github.com/yourusername/blog-website.git
+    git clone https://github.com/Santhosh1470/blog-website.git
     ```
 
 2. **Navigate to the project folder**:
